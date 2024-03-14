@@ -27,6 +27,7 @@
 **Hello-rails-Backend** is a simple rails api application which can be used as supporting backend project for frontend projects.
 
 ## React Project using this Backend API: [hello-react-front-end](https://github.com/the-faizmohammad/Sample-React-Front-End.git)
+API: http://[::1]:3000/api/v1/random_greeting
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -101,23 +102,10 @@ Create database:
 
 To run the server:
 
-```
- rails assets:precompile
- 
- rails server
-
-```
+rails server
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Run tests
-
-To run tests, run the following command:
-
- ```
- rspec spec/
-
- ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +114,7 @@ To run tests, run the following command:
 
 👤 **Faiz Mohammad**
 
-- GitHub: [@tan12082001](https://github.com/the-faizmohammad)
+- GitHub: [@thefaizmohammad](https://github.com/the-faizmohammad)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/faiz-mohammad-967354142/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
